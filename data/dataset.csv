@@ -1,0 +1,31 @@
+id;sentencas;documento
+1;['A inteligência artificial está transformando a análise de dados nas empresas.'];A inteligência artificial está transformando a análise de dados nas empresas.
+2;['O uso de Python permite automatizar processos e reduzir tarefas manuais.'];O uso de Python permite automatizar processos e reduzir tarefas manuais.
+3;['O mercado financeiro utiliza algoritmos para apoiar decisões de investimento.'];O mercado financeiro utiliza algoritmos para apoiar decisões de investimento.
+4;['A análise de dados contribui para identificar padrões de comportamento.'];A análise de dados contribui para identificar padrões de comportamento.
+5;['Ferramentas de automação aumentam a produtividade das equipes.'];Ferramentas de automação aumentam a produtividade das equipes.
+6;['Modelos de linguagem natural são usados para interpretar textos em português.'];Modelos de linguagem natural são usados para interpretar textos em português.
+7;['A tecnologia facilita o processamento de grandes volumes de informação.'];A tecnologia facilita o processamento de grandes volumes de informação.
+8;['Empresas utilizam dashboards para acompanhar indicadores financeiros.'];Empresas utilizam dashboards para acompanhar indicadores financeiros.
+9;['O SQL é uma linguagem importante para consultar bancos de dados.'];O SQL é uma linguagem importante para consultar bancos de dados.
+10;['A ciência de dados combina estatística, programação e conhecimento de negócio.'];A ciência de dados combina estatística, programação e conhecimento de negócio.
+11;['Sistemas inteligentes podem classificar documentos automaticamente.'];Sistemas inteligentes podem classificar documentos automaticamente.
+12;['A automação reduz erros operacionais em tarefas repetitivas.'];A automação reduz erros operacionais em tarefas repetitivas.
+13;['O aprendizado de máquina permite criar modelos preditivos.'];O aprendizado de máquina permite criar modelos preditivos.
+14;['A mineração de texto ajuda a extrair informações relevantes de documentos.'];A mineração de texto ajuda a extrair informações relevantes de documentos.
+15;['O processamento de linguagem natural permite analisar sentimentos em textos.'];O processamento de linguagem natural permite analisar sentimentos em textos.
+16;['A governança de dados é essencial para garantir qualidade das informações.'];A governança de dados é essencial para garantir qualidade das informações.
+17;['O mercado financeiro depende de informações rápidas e confiáveis.'];O mercado financeiro depende de informações rápidas e confiáveis.
+18;['Bibliotecas de Python auxiliam na criação de gráficos e análises estatísticas.'];Bibliotecas de Python auxiliam na criação de gráficos e análises estatísticas.
+19;['A transformação digital modificou a forma como as empresas tomam decisões.'];A transformação digital modificou a forma como as empresas tomam decisões.
+20;['A análise estatística permite compreender distribuições e frequências.'];A análise estatística permite compreender distribuições e frequências.
+21;['O reconhecimento de entidades identifica nomes, organizações e tecnologias.'];O reconhecimento de entidades identifica nomes, organizações e tecnologias.
+22;['A limpeza textual remove caracteres desnecessários antes da análise.'];A limpeza textual remove caracteres desnecessários antes da análise.
+23;['A segmentação divide documentos em sentenças para facilitar o processamento.'];A segmentação divide documentos em sentenças para facilitar o processamento.
+24;['O BERT é utilizado para representar textos por meio de embeddings.'];O BERT é utilizado para representar textos por meio de embeddings.
+25;['Embeddings permitem comparar documentos, tokens e sentenças.'];Embeddings permitem comparar documentos, tokens e sentenças.
+26;['A visualização de dados ajuda na interpretação dos resultados obtidos.'];A visualização de dados ajuda na interpretação dos resultados obtidos.
+27;['Técnicas de PLN são aplicadas em chatbots, buscadores e classificadores.'];Técnicas de PLN são aplicadas em chatbots, buscadores e classificadores.
+28;['A automação financeira melhora o controle de relatórios e indicadores.'];A automação financeira melhora o controle de relatórios e indicadores.
+29;['A análise de tokens permite observar palavras relevantes no corpus.'];A análise de tokens permite observar palavras relevantes no corpus.
+30;['A projeção de embeddings facilita a visualização da proximidade entre textos.'];A projeção de embeddings facilita a visualização da proximidade entre textos.
